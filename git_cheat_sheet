@@ -1,0 +1,13 @@
+Local to Remote:
+git init (new Repo)
+git add . or filename
+git commit -m "Write Message"
+git add origin URL (new Repo)
+git push -u origin master
+
+git status (To know the status of repo)
+git branch (To know which branch I am on)
+git reset --hard (To reset repo)
+
+Remote to Local:
+git pull 
