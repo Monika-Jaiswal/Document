@@ -11,3 +11,16 @@ git reset --hard (To reset repo)
 
 Remote to Local:
 git pull 
+
+
+How to bring your remote repo to local repo?
+--> We use git clone to copy remote repo to local repository
+git clone URL
+
+how to find url on your remote repository?
+--> We locate remote repository download link(green)
+
+Note:- Make sure while you issue git commands, you are aware of the location i.e. working directory you are in.
+
+What is remote repository, Local repository?
+What are the different stages of Local repository?
