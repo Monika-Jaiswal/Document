@@ -1,6 +1,6 @@
 Local to Remote:
 git init (new Repo)
-git add . or filename
+git add . OR filename
 git commit -m "Write Message"
 git remote add origin URL (new Repo)
 git push -u origin master (We run this command only for the new repo, else git push will work)
@@ -11,6 +11,12 @@ git reset --hard (To reset repo)
 
 Remote to Local(When repo exists):
 git pull 
+
+Remote to Local(When repo does not exists):
+copy the clone URL from the remote repository
+switch back to your local workspacel
+git clone URL
+Follow the steps mentioned in the line 1 to 10
 
 
 How to bring your remote repo to local repo?
